@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook_Selenium_Automation", "Facebook_Selenium_Automation.csproj", "{649937FE-9C0C-4BAB-AFF4-9F533864F5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649937FE-9C0C-4BAB-AFF4-9F533864F5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649937FE-9C0C-4BAB-AFF4-9F533864F5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649937FE-9C0C-4BAB-AFF4-9F533864F5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649937FE-9C0C-4BAB-AFF4-9F533864F5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0FB66E1-2652-46AD-A26C-CEFA371D71F6}
+	EndGlobalSection
+EndGlobal

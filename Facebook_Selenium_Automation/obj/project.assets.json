@@ -456,11 +456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ingenuity/Desktop/Quality_Assurance/Facebook_Selenium_Automation/Facebook_Selenium_Automation/Facebook_Selenium_Automation.csproj",
+      "projectUniqueName": "/Users/ingenuity/Desktop/GH_Quality_Assurance/Facebook-Selenium-Automation/Facebook_Selenium_Automation/Facebook_Selenium_Automation.csproj",
       "projectName": "Facebook_Selenium_Automation",
-      "projectPath": "/Users/ingenuity/Desktop/Quality_Assurance/Facebook_Selenium_Automation/Facebook_Selenium_Automation/Facebook_Selenium_Automation.csproj",
+      "projectPath": "/Users/ingenuity/Desktop/GH_Quality_Assurance/Facebook-Selenium-Automation/Facebook_Selenium_Automation/Facebook_Selenium_Automation.csproj",
       "packagesPath": "/Users/ingenuity/.nuget/packages/",
-      "outputPath": "/Users/ingenuity/Desktop/Quality_Assurance/Facebook_Selenium_Automation/Facebook_Selenium_Automation/obj/",
+      "outputPath": "/Users/ingenuity/Desktop/GH_Quality_Assurance/Facebook-Selenium-Automation/Facebook_Selenium_Automation/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
