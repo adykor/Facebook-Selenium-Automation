@@ -1,1 +1,1 @@
-# Facebook-Selenium-Automation
+# Facebook Sign Up Automation Testing
