@@ -14,12 +14,6 @@ This is an automation testing program written in C# that utilizes Selenium and N
 * clicks on the Sign Up button
 * closes the browser window
 
-## Actual Results found in testing Facebook's code:
-* class names contain spaces
-* id's for elements change (at least 3 times) when a user refreshes the page
-* tests conducted cannot find elements by id, XPath, class names due to their changing
-* in many tests invalid emails still pass through the initial registration process
-
 ## Technologies Used: 
 - Visual Studio IDE
 
